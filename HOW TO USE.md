@@ -5,3 +5,4 @@ Script for backing up and transfering files which can be used in the Windows Tas
 
 You can create a task in the Task Scheduler. This task will execute the .bat script, sort of like using crontab on Linux.
 You can export the task and it will create a .xml file you can use to import the task into other machines.
+The machine needs to have 7zip installed.
